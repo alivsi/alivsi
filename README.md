@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alivsi
 - 👀 I’m interested in shifting careers from IT marketing writer to technical writer
-- 🌱 I’m currently learning  Python, Agile, and studying to get the Society for Technical Communication certification
+- 🌱 I’m currently learning GitHub, Python, Agile, and studying to get the Society for Technical Communication certification
 - 💞️ I’m looking to collaborate on user guides, API documentation, and quick reference guides
 - 📫 How to reach me: Alivsi is my real name and that's how I show up on any platform I use
 - 😄 Pronouns: she/her
